@@ -1,3 +1,14 @@
-# Bootcamp Everis FullStack Development 
+# Pixels Animation with JavaScript
 
-## Este repositório contém projetos e atividades relacionados ao Bootcamp de Programação FullStack oferecido pela Digital Inovation One. Data de inscrição: 05/02/2021. Data de finalização: 20/04/2021. 
+This Javascript Project creates an interactive Particles Animation on Hover. 
+
+## General Ideias behind the Project
+
+*   Get an Image's pixels data.
+*   Create a Particles System overlapping the Image.
+*   Animate the Particles on mouse Hover.
+
+## Visualization
+
+[Project on CodePen](https://codepen.io/amandasato/full/dyNXmKb)
+
